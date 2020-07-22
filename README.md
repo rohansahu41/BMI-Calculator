@@ -1,2 +1,3 @@
-# git-github1
-this is for tutorial purpose.
+# BMI Calculator
+A  flutter app that calculates the BMI of an individual.
+
